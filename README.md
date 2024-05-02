@@ -1,10 +1,10 @@
 # Me presento, soy Lina Maria Muñoz Mosquera
 
-Mi profesión de base es Fisioterapeuta con Especialización en Administración de Salud.
+Soy  FullStack Developer del bootcamp SoyHenry
 
 ### ¿Cuales son mis habilidades?
 
-A través de la experiencia de mis anteriores trabajos como Coordinadora de Atención al usuario y administrativa he obtenido conocimientos y destrezas para trabajo en equipo, manejo de equipos de trabajo, liderazgo, comunicación, manejo de indicadores relacionados a la calidad, metodologías ágiles de trabajo. Además de flexibilidad, responsabilidad, habilidades para tratar con clientes y toma de requerimientos, planificación de actividades, resolución y proposición de estratégicas para el mejoramiento.
+A través de la experiencia de mis anteriores en el campo administrativo he obtenido conocimientos y destrezas para trabajo en equipo, manejo de equipos de trabajo, liderazgo, comunicación, manejo de indicadores relacionados a la calidad, metodologías ágiles de trabajo. Además de flexibilidad, responsabilidad, habilidades para tratar con clientes y toma de requerimientos, planificación de actividades, resolución y proposición de estratégicas para el mejoramiento.
 
 ### Mis conocimientos técnicos
 
